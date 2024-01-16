@@ -95,7 +95,7 @@ export default function Page() {
         <Section>
           <h2 className="text-xl font-bold">About</h2>
           <p className="text-pretty font-mono text-sm text-muted-foreground">
-            {RESUME_DATA.summary}<a className="hover:underline" href="https://app.crackingthecryptic.com/rLNbnB6FnD">cryptic sudoku</a>.
+            {RESUME_DATA.summary}<a className="font-bold hover:underline" href="https://sudokupad.app/kknb9z9cjy">this one</a>.
           </p>
         </Section>
         <Section>
