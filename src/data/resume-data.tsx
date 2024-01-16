@@ -113,6 +113,9 @@ export const RESUME_DATA = {
   skills: [
     "Python",
     "PyTorch",
+    "Tensorflow",
+    "Databricks",
+    "MLFlow",
     "Keras",
     "Pandas",
     "Adobe Illustrator",
