@@ -114,12 +114,11 @@ export const RESUME_DATA = {
     "Python",
     "PyTorch",
     "Tensorflow",
-    "Databricks",
     "MLFlow",
     "Keras",
     "Pandas",
-    "Adobe Illustrator",
     "MATLAB",
+    "Adobe Illustrator",
   ],
   projects: [
     {
