@@ -97,7 +97,7 @@ export const RESUME_DATA = {
       start: "2020",
       end: "2020",
       description:
-        "Worked on increasing the daily soap noodle production of CVSP1 plant from 28 to 60 metric tonnes, Ran plant simulations & analysis to find out the root cause and bottlenecks to be replaces.",
+        "Worked on increasing the daily soap noodle production of CVSP1 plant from 28 to 60 metric tonnes, Ran plant simulations & analysis to find out the root cause and bottlenecks to be replaced.",
     },
     {
       company: "Coca-Cola",
