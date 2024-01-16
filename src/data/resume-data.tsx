@@ -27,7 +27,7 @@ export const RESUME_DATA = {
   about:
     "👋Hi, There!",
   summary:
-    "Currently, I solve operations problem using data for a large beverage company. Previously worked on Deep Learning applications in material design and discovery. In my free time, I explore the world of start-ups, watch football, read, and play ",
+    "Currently, I solve operations problems using data for a large beverage company. Previously worked on Deep Learning applications in material design and discovery. In my free time, I explore the world of start-ups, watch football, read, and play ",
   avatarUrl: "https://avatars.githubusercontent.com/u/125467983?v=4",
   personalWebsiteUrl: "",
   contact: {
