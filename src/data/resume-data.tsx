@@ -69,7 +69,7 @@ export const RESUME_DATA = {
     {
       company: "Anheuser-Busch InBev",
       link: "https://www.ab-inbev.com/",
-      badges: ["FTE"],
+      badges: [],
       title: "Data Scientist",
       logo: ParabolLogo,
       start: "2022",
@@ -80,7 +80,7 @@ export const RESUME_DATA = {
     {
       company: "Anheuser-Busch InBev",
       link: "https://www.ab-inbev.com/",
-      badges: ["Intern"],
+      badges: [],
       title: "Data Science Intern",
       logo: ClevertechLogo,
       start: "2021",
@@ -91,7 +91,7 @@ export const RESUME_DATA = {
     {
       company: "Wipro Consumer Care",
       link: "https://wiproconsumercare.com/brands-india/",
-      badges: ["Intern"],
+      badges: [],
       title: "Process Engineer Intern",
       logo: JojoMobileLogo,
       start: "2020",
@@ -102,7 +102,7 @@ export const RESUME_DATA = {
     {
       company: "Coca-Cola",
       link: "https://www.hccb.in/",
-      badges: ["Intern"],
+      badges: [],
       title: "Supply Chain Intern",
       logo: NSNLogo,
       start: "2019",
