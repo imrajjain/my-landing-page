@@ -75,7 +75,7 @@ export const RESUME_DATA = {
       start: "2022",
       end: "Now",
       description:
-        "Designed & Developed multiple solutions to optimize cost in the logistics space in Africa, resulting in $20M+ savings annually. Projects: Load Optimization Engine, Supply Chain Network Design, Fleet Resource Management.",
+        "Designed & Developed multiple solutions to optimize cost in the logistics space in Africa, resulting in $10M+ savings annually. Projects: Load Optimization Engine, Supply Chain Network Design, Fleet Resource Management.",
     },
     {
       company: "Anheuser-Busch InBev",
