@@ -60,7 +60,7 @@ export const RESUME_DATA = {
     {
       school: "Indian Institute of Technology Madras",
       link: "https://www.iitm.ac.in",
-      degree: "Dual Degree: B.Tech. in Chemical Engineering & M.Tech. in Data Science (Minor: Systems Engineering), CGPA 9.01",
+      degree: "Bachelor's Degree in Chemical Engineering,\nMaster's in Data Science",
       start: "2017",
       end: "2022",
     },
@@ -149,16 +149,6 @@ export const RESUME_DATA = {
         label: "Paper Link",
         href: "https://doi.org/10.1021/acsengineeringau.3c00055",
       },
-    },
-    {
-      title: "Bayesian Online Changepoint Detection",
-      techStack: [
-        "Bayesian Inference",
-        "Time Series",
-        "Recursive Least Squares",
-      ],
-      description: "Implemented BOCD to estimate generative-parameter changepoints in real time on well-drilling NMR time-series data, integrated with a recursive least squares model.",
-      logo: MonitoLogo,
     },
   ],
 } as const;
